@@ -1,5 +1,6 @@
+# git commands
 git init (to initialize)
-git add * (add all file to commit)
+git add * (add all file to commit, or replace * with file name)
 git commit -m "first commit"
 git branch (show existing branch)
 git branch --list (show all branches locally)
